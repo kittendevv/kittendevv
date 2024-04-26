@@ -1,8 +1,7 @@
 ![CodingKitten](https://raw.githubusercontent.com/CodingKitten-YT/CodingKitten-YT/main/CodingKitten.png)
 <h3 align="center">I am a passionate frontend developer who loves cats.</h3>  
-  
-- 👨‍💻 All of my projects are available at [https://www.kittendev.xyz/](https://www.kittendev.xyz/)  
-- 🎮 My game site [https://www.games.kittendev.xyz/](https://www.games.kittendev.xyz/)  
+<p align="center">・ 🧑‍💻 View all my projects: <a href="https://www.kittendev.xyz/" target="_blank" rel="noreferrer"></a></p> 
+<p align="center">・ 🎮 My game site: <a href="https://games.kittendev.xyz/" target="_blank" rel="noreferrer"></a></p> 
   
 <h3 align="center">Languages and Tools:</h3>  
 
