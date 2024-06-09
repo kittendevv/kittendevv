@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate frontend developer who loves cats.</h3>  
 <p align="center">・ 🧑‍💻 View all my projects: <a href="https://www.kittendev.xyz/" target="_blank" rel="noreferrer"></a></p> 
 <p align="center">・ 🎮 My game site: <a href="https://games.kittendev.xyz/" target="_blank" rel="noreferrer"></a></p> 
-  
+
 <h3 align="center">Languages and Tools:</h3>  
 
   <p align="center">
