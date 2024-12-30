@@ -23,7 +23,3 @@ Welcome to my GitHub profile. I'm a developer who enjoys sharing projects and kn
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-         /\  /\
-      =( ´ •⁠ω• ⁠)=
-       / ͡   ︵\
-     (⁠人_____づ_づ
