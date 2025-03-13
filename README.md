@@ -1,7 +1,6 @@
 # Hi, I'm CodingKitten! 👋
 
-Welcome to my GitHub profile. I'm a developer who enjoys sharing projects and knowledge with the community.
-
+Hi as my name might suggest, i like cats and coding. I mostly do webdevelopmnent but i am also intrested in backend and python.
 ## About Me
 
 - 🔭 Currently working on open-source projects.
@@ -9,10 +8,6 @@ Welcome to my GitHub profile. I'm a developer who enjoys sharing projects and kn
 - 👯 Looking to collaborate on interesting projects.
 - 💬 Ask me about web development, Python, JavaScript, and more.
 - 📫 How to reach me: [roozendaalberend@gmail.com](mailto:roozendaalberend@gmail.com)
-
-## My GitHub Stats
-
-![CodingKitten-YT's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingKitten-YT&show_icons=true&theme=radical)
 
 ## Languages and Tools
 
