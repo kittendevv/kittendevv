@@ -11,7 +11,7 @@ Hi as my name might suggest, i like cats and coding. I mostly do web developmnen
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Typescript]([https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript))
+![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
