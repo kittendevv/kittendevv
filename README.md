@@ -7,6 +7,12 @@ Hi as my name might suggest, i like cats and coding. I mostly do web developmnen
 - 🌱 Always learning new technologies and frameworks.
 - 📫 How to reach me: [roozendaalberend@gmail.com](mailto:roozendaalberend@gmail.com)
 
+## Stalk me
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=616&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=CodingKitten-YT&theme=dark)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=CodingKitten-YT&repo=KittenGames-gamelibrary&theme=dark)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=CodingKitten-YT&repo=kittengames&theme=dark)](https://github.com/KasRoudra/github-stats-card)
+
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
