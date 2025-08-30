@@ -12,11 +12,11 @@ Hi as my name might suggest, i like cats and coding. I mostly do web developmnen
 
 ## Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
+![Deno](https://img.shields.io/badge/-Deno-000?&logo=Deno)
+![Fresh](https://img.shields.io/badge/-Fresh-000?&logo=Fresh)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
