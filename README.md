@@ -15,6 +15,7 @@ Hi as my name might suggest, i like cats and coding. I mostly do web developmnen
 ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
 ![Deno](https://img.shields.io/badge/-Deno-000?&logo=Deno)
+![Hnon](https://img.shields.io/badge/-Hono-000?&logo=Hono)
 ![Fresh](https://img.shields.io/badge/-Fresh-000?&logo=Fresh)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
