@@ -1,8 +1,10 @@
 # Hi, I'm CodingKitten! 👋
 
 Hi as my name might suggest, i like cats and coding. I mostly do web developmnent but i am also intrested in backend and python.
+
 ## About Me
 
+- 🌐 I have a personal [site/blog](https://codingkitten.dev/).
 - 🔭 Currently working on open-source projects.
 - 🌱 Always learning new technologies and frameworks.
 - 📫 How to reach me: [codingkitten@hackclub.app](mailto:codingkitten@hackclub.app)
