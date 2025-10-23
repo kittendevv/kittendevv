@@ -1,6 +1,4 @@
-# Hi, I'm CodingKitten! 👋
-
-Hi as my name might suggest, i like cats and coding. I mostly do web developmnent but i am also intrested in backend and python.
+Hi I'm CodingKitten, as my name might imply I like both cats and coding. 
 
 ## About Me
 
