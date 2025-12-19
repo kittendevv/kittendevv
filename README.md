@@ -5,7 +5,7 @@ Hi I'm CodingKitten, as my name might imply I like both cats and coding.
 - 🌐 I have a personal [site/blog](https://codingkitten.dev/).
 - 🔭 Currently working on open-source projects.
 - 🌱 Always learning new technologies and frameworks.
-- 📫 How to reach me: [codingkitten@hackclub.app](mailto:codingkitten@hackclub.app)
+- 📫 How to reach me: [codingkitten@disroot.org](mailto:codingkitten@disroot.org)
 
 ## Hackatime
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=616&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
