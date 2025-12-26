@@ -1,4 +1,4 @@
-Hi I'm CodingKitten, as my name might imply I like both cats and coding. 
+Hi I'm CodingKitten, as my name might imply I like both cats and coding. I am a teenager hobby dev.
 
 ## About Me
 
